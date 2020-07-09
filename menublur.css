@@ -1,0 +1,35 @@
+html{width:100%;height:100%;}
+body{
+	width:100%;
+	height:100%;
+	margin:0px;
+	overflow-x:hidden;
+}
+#output{
+	position:absolute;
+	top:0px;
+	left:120px;
+	width:200px;
+	text-align:center;
+	background-color:#EEE;
+	padding:4px;
+	font-size:12px;
+}
+#menuSpawner{
+	width:100px;
+	height:30px;
+	background-color:gold;
+	text-align:center;
+	line-height:30px;
+}
+#menuOwner{
+	width:100px;
+	height:200px;
+	background-color:gold;
+	margin-top:20px;
+	transform:translateX(-100%);
+	transition:transform 1s;
+	text-align:center;
+	line-height:200px;
+}
+#menuOwner:focus{outline:none;}
