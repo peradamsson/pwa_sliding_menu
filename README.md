@@ -1,5 +1,5 @@
 # pwa_sliding_menu
-Sliding menu-container with blur-event. This is vanilla javascript and som regular css. 
+Sliding menu-container with blur-event. This is vanilla javascript and some regular css. 
 
 Javascript menu class created in order to work with ios, android and webbrowsers. Tested with iphone8, motorola Android and chrome. 
 
