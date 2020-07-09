@@ -28,4 +28,6 @@ menuOwner
 
 log (optional)  
   function,  with one argument that console.logs, or in my case, shows information the browser.   
-  
+
+
+Demo here: http://damsson.se/menublur/  
